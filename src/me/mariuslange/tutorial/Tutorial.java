@@ -21,5 +21,4 @@ public class Tutorial extends JavaPlugin
 		}
 		return true;
 	}
-	
 }
